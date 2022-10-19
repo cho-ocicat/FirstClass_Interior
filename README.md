@@ -14,7 +14,7 @@ Our client is looking for a website which should be more interactive and user fr
 
 Credits:
 
-[group name] Team:
+Pixel Team:
 
 Choisy Khairani as Team Lead/Programmer
 
