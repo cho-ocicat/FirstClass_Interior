@@ -10,17 +10,17 @@ function changeInfo() {
     if(button.textContent=="Our MD"){
         picture.src = "../Images/managing-director-512x512.png"
         fullname.textContent = "Dayton Costantini"
-        titles.textContent = "Managing Director of Captivate Interiors"
+        titles.textContent = "Managing Director of First Class Interiors"
         roles.textContent = "Designer & Procurements"
-        desc.textContent = "Dayton is the co-founder of Captivate Interiors. He looks after the procurement side of things. To ensure our clients experience an excellent service, Dayton works through every project, teaming with the designers to ensure finances, fee claims and product claims are all on track."
+        desc.textContent = "Dayton is the co-founder of First Class Interiors. He looks after the procurement side of things. To ensure our clients experience an excellent service, Dayton works through every project, teaming with the designers to ensure finances, fee claims and product claims are all on track."
         msg.style.display = "none";
         button.textContent = "Our CEO"
     } else{
         picture.src = "../Images/ceo-512x512.png"
         fullname.textContent = "Valentina Carter"
-        titles.textContent = "Chief Executive Officer of Captivate Interiors"
+        titles.textContent = "Chief Executive Officer of First Class Interiors"
         roles.textContent = "Designer"
-        desc.textContent = "Valentina established Captivate Interiors with Dayton in 2010. She has been designing and working in the building industry for more than 20 years and has vast experience in commercial and residential projects, from office fit outs to cafes and private homes."
+        desc.textContent = "Valentina established First Class Interiors with Dayton in 2010. She has been designing and working in the building industry for more than 20 years and has vast experience in commercial and residential projects, from office fit outs to cafes and private homes."
         msg.style.display = "block";
         button.textContent = "Our MD"
     }
