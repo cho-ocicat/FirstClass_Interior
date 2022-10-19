@@ -3,16 +3,15 @@
     font-family: 'Aboreto', cursive;
     font-weight: bold;
     padding-top: 5px;
+    color: white;
 }
 
-.bg-image { 
-    background-color: #e4efe3;
-    width:100%;
-    height: 90px;
+#up {
+    background-color: #2c2c2c;
 }
 
 .navbar {
-    background-color: #54746c;
+    background-color: #2c2c2c;
     font-family: 'Josefin Sans', sans-serif;
     padding-top: 10px;
 }
@@ -20,11 +19,11 @@
     color: white;
 }
 .navbar a:hover {
-    background-color: #fb8c44;
-    color: #3c2414;
+    background-color: #a48444;
+    color: #2c2c2c;
 }
 .navbar a.active {
-    background-color: #fb8c44;
+    background-color: #a48444;
     color: white;
     font-weight: bold;
 }
@@ -39,7 +38,7 @@
 }
 
 #footer {
-    background-color: #54746c;
+    background-color: #2c2c2c;
     color: white;
     font-family: 'Josefin Sans', sans-serif;
 }
