@@ -7,7 +7,7 @@ function changeTitle(){
     else{
         title.style.color="black";
         title.style.fontSize="34px";
-    }
+    } 
 }
 
 var contact = document.getElementById('contact_info');
